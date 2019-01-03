@@ -4,7 +4,8 @@ A Basic JavaScript Table Rendering
 ![image](https://github.com/ejhagee/UFO-Sightings/blob/master/static/images/nasa.jpg)
 
 # Description
- - This small project renders a filterable table of fictional UFO sightings using Javascript.  
+ - Here, we look at a fictional database of UFO Sightings.  We aim to make this database searchable.
+ - So, we render a filterable table of fictional UFO sightings using Javascript.  
  - Users may filter by date, city, state, country, or shape.
  - There is also an option to reset the table.
  
